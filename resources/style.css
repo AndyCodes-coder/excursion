@@ -11,6 +11,10 @@ body{
     font-size: 16px;
     
 }
+.right{
+    text-align: right;
+    color: gray;
+}
 #discover{
     font-size: 50px;
     position: relative;
