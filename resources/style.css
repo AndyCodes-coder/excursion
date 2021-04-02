@@ -3,7 +3,39 @@ body{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.center{
+        text-align: center;
+}
+.download{
+    color: aquamarine;
+    font-size: 16px;
+    
+}
 #discover{
     font-size: 50px;
+    position: relative;
+
+}
+#phoneVid{
     margin: auto;
+    position: relative;
+    text-align: center;
+}
+#vid{
+    display: block;
+    margin: auto;
+    border: 0;
+}
+#travelHead, #comingSoon{
+    font-size: 42px;
+    font-weight: 300;
+}
+#text{
+    color: gray;
+    font-size: 21px;
+}
+.bottomPic{
+    display: block;
+    margin: auto;
+    position: relative;
 }
